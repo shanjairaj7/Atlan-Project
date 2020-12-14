@@ -1,0 +1,32 @@
+.sidebar {
+  display: flex;
+  flex-direction: column;
+  width: 23%;
+  background-color: #d80032;
+  color: white;
+  padding: 20px 30px;
+  height: 100%;
+  position: fixed;
+}
+.sidebar > h1 {
+  font-size: 30px;
+  color: white;
+  padding-top: 15px;
+}
+
+.sidebar__links {
+  padding: 40px 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.sidebar__link {
+  color: white;
+  text-decoration: none;
+  padding-bottom: 45px;
+  font-size: 16px;
+}
+
+.sidebar__link:hover {
+  text-decoration: underline;
+}
