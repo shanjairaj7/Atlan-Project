@@ -11,3 +11,5 @@ As I received the data in a CSV file, I wrote a Node.js script that gets the dat
 I have a folder named jsonparser in the project, which has the node.js script project files in it. Then I have the code in a jsonparser.js file. I used various npm packages like csvtojson, to scrape the data from the CSV file and then put them in their own JSON file.
 
 I already have a folder that has the example of the JSON files that the script generates. However, if you want to test it out for yourself, you could delete the folder named json-files and then run the script file named jsonparser.js and that will create a new folder called json-files and then insert the specific json files into it.
+
+# 💡 Thank you
