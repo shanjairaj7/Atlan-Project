@@ -12,4 +12,4 @@ I have a folder named jsonparser in the project, which has the node.js script pr
 
 I already have a folder that has the example of the JSON files that the script generates. However, if you want to test it out for yourself, you could delete the folder named json-files and then run the script file named jsonparser.js and that will create a new folder called json-files and then insert the specific json files into it.
 
-# 💡 Thank you
+💡 Thank you
